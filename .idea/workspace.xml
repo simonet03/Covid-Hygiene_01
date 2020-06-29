@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="274ecb01-bdb7-406a-a252-6c6838944785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Covid-Hygiene.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,20 +150,21 @@
       <option name="presentableId" value="Default" />
       <updated>1593113290451</updated>
       <workItem from="1593261053473" duration="3556000" />
+      <workItem from="1593283610089" duration="6185000" />
+      <workItem from="1593376217134" duration="598000" />
+      <workItem from="1593378356810" duration="599000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3556000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="886" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1593274644602">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1245" y="190" key="#com.intellij.ide.util.MemberChooser" timestamp="1593286588923">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="886" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593274644602" />
+    <state x="1245" y="190" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-1920.3.1920.1050@0.0.1920.1050" timestamp="1593286588923" />
     <state x="1245" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1593123142962" />
     <state x="746" y="366" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593283744265">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -209,10 +207,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593272172080" />
-    <state x="862" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593274888719">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="588" y="208" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593286611801">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="862" y="167" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1593274888719" />
+    <state x="588" y="208" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/-1920.3.1920.1050@0.0.1920.1050" timestamp="1593286611801" />
     <state x="1211" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593122130760" />
     <state x="685" y="237" key="new project wizard" timestamp="1593120862353">
       <screen x="0" y="0" width="1920" height="1050" />
