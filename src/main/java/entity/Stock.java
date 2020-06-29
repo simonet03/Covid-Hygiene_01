@@ -1,7 +1,6 @@
 package entity;
 
 public class Stock {
-
     private long numOfStock;
     private String stockType;
 
@@ -44,5 +43,4 @@ public class Stock {
         }
 
     }
-
 }
