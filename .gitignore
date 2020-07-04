@@ -1,0 +1,5 @@
+# ignored files:
+.idea
+target/
+CovidHygiene.iml
+.idea/workspace.xml

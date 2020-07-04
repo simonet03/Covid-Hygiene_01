@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="274ecb01-bdb7-406a-a252-6c6838944785" name="Default Changelist" comment="" />
+    <list default="true" id="274ecb01-bdb7-406a-a252-6c6838944785" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/TempFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factory/TempFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -41,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="factory" />
       <recent name="entity" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -50,7 +60,23 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TempFactoryTest.buildTemperature">
+    <configuration name="TempFactoryTest.buildTemperature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CovidHygiene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="factory" />
+      <option name="MAIN_CLASS_NAME" value="factory.TempFactoryTest" />
+      <option name="METHOD_NAME" value="buildTemperature" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TemperatureTest.testCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CovidHygiene" />
       <extension name="coverage">
@@ -69,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TempFactoryTest.buildTemperature" />
         <item itemvalue="JUnit.TemperatureTest.testCreate" />
       </list>
     </recent_temporary>
@@ -99,26 +126,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="761" y="415" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1593113923469" />
-    <state width="914" height="285" key="GridCell.Tab.0.bottom" timestamp="1593124169381">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1593886156587">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593124169381" />
-    <state width="914" height="285" key="GridCell.Tab.0.center" timestamp="1593124169381">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593886156587" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1593886156586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593124169381" />
-    <state width="914" height="285" key="GridCell.Tab.0.left" timestamp="1593124169381">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593886156586" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1593886156586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593124169381" />
-    <state width="914" height="285" key="GridCell.Tab.0.right" timestamp="1593124169381">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593886156586" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1593886156586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593124169381" />
-    <state x="1211" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593122130760">
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593886156586" />
+    <state x="731" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1593886320448">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1211" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593122130760" />
+    <state x="731" y="151" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593886320448" />
+    <state x="1211" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593885944029">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1211" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593885944029" />
+    <state x="953" y="525" width="974" height="532" key="dock-window-1" timestamp="1593886339335">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="953" y="525" width="974" height="532" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1593886339335" />
     <state x="685" y="237" key="new project wizard" timestamp="1593120862353">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
